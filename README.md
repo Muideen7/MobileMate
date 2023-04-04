@@ -2,13 +2,17 @@
 
 MobileMate is a smartphone retail website that allows users to search for and compare smartphone models based on specifications, features, and pricing. The website also allows users to place orders for specific smartphone models and provides real-time pricing information in Nigerian Naira. The website is built using modern web development technologies and APIs to ensure a seamless user experience. The repo contains the source code and assets for the website, including front-end and back-end code, documentation, and deployment scripts.
 
-The purpose of an Online Smartphone Ordering System is to automate the existing manual system with the help of computerized equipment and full-fledged computer software, fulfilling the requirements of customers so that their valuable data/information can be stored for a longer period with easy access and manipulation of the same. The required software and hardware are easily available and easy to work with.
+Welcome to MobileMate, the ultimate smartphone website designed with Nigerians in mind but open to all Africans and the world. Our website is designed to make it easy for you to order phones, check specifications, and view real-time pricing.
 
-The system aims to provide customers with a user-friendly platform to order smartphones online. It will lead to an error-free, secure, reliable, and fast management system that can assist the user to focus on their other activities rather than concentrate on record keeping. Thus, it will help organizations in better utilization of resources. The organization can maintain computerized records without redundant entries. This means that one need not be distracted by information that is not relevant while being able to reach the information.
+Getting started on MobileMate is easy, simply visit our website and browse through our wide range of smartphones from top brands. Our website is user-friendly, so you won't need any formal knowledge to navigate through it. You can view all the specifications of the phones, check out customer reviews, and compare prices to make informed decisions.
 
-The "MOMOMIA" approach has been applied to overcome the prevalent problems in manual systems. This website is compatible to finalize and, in some cases, reduce the difficulties faced by this existing system. In addition, the system is designed to function smoothly and effectively for the special needs of the company.
+We understand the importance of having access to the latest technology, so we ensure that our prices are competitive and affordable. We update our prices in real-time, so you can be sure that you are getting the best deals on the market.
 
-The website is designed to minimize errors when entering data and provides an error message when entering invalid data. It is user-friendly, and no formal knowledge is required to use this system. Therefore, every task is easy to use. Online smartphone order systems, as described above, can lead to error-free, safe, reliable, and fast management systems. This can help the user focus on their other activities instead of focusing on record keeping. Therefore, it will help the organization to make better use of resources.
+MobileMate is committed to providing exceptional customer service, and we are always ready to assist you with any questions or concerns you may have. Our customer support team is available 24/7 to help you with your purchases and provide you with a hassle-free shopping experience.
+
+We are constantly updating our website with the latest phones, deals, and promotions, so be sure to sign up for our newsletter to stay up-to-date. You can also follow us on social media to stay connected and be the first to know about our new products and promotions.
+
+Thank you for choosing MobileMate, we look forward to serving you and providing you with the best smartphone shopping experience.
 
 ## Website Link-
 <a href="https://MobileMate.netlify.app/momomia/">MobileMate</a>
