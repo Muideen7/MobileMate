@@ -1,7 +1,5 @@
 # MobileMate
 
-MobileMate is a smartphone retail website that allows users to search for and compare smartphone models based on specifications, features, and pricing. The website also allows users to place orders for specific smartphone models and provides real-time pricing information in Nigerian Naira. The website is built using modern web development technologies and APIs to ensure a seamless user experience. The repo contains the source code and assets for the website, including front-end and back-end code, documentation, and deployment scripts.
-
 Welcome to MobileMate, the ultimate smartphone website designed with Nigerians in mind but open to all Africans and the world. Our website is designed to make it easy for you to order phones, check specifications, and view real-time pricing.
 
 Getting started on MobileMate is easy, simply visit our website and browse through our wide range of smartphones from top brands. Our website is user-friendly, so you won't need any formal knowledge to navigate through it. You can view all the specifications of the phones, check out customer reviews, and compare prices to make informed decisions.
@@ -13,6 +11,10 @@ MobileMate is committed to providing exceptional customer service, and we are al
 We are constantly updating our website with the latest phones, deals, and promotions, so be sure to sign up for our newsletter to stay up-to-date. You can also follow us on social media to stay connected and be the first to know about our new products and promotions.
 
 Thank you for choosing MobileMate, we look forward to serving you and providing you with the best smartphone shopping experience.
+
+
+MobileMate is a smartphone retail website that allows users to search for and compare smartphone models based on specifications, features, and pricing. The website also allows users to place orders for specific smartphone models and provides real-time pricing information in Nigerian Naira. The website is built using modern web development technologies and APIs to ensure a seamless user experience. The repo contains the source code and assets for the website, including front-end and back-end code, documentation, and deployment scripts.
+
 
 ## Website Link-
 <a href="https://MobileMate.netlify.app/momomia/">MobileMate</a>
