@@ -17,7 +17,7 @@ MobileMate is a smartphone retail website that allows users to search for and co
 
 
 ## Website Link-
-<a href="https://MobileMate.netlify.app/momomia/">MobileMate</a>
+<a href="https://MobileMate.netlify.app">MobileMate</a>
 
 ## 📝 Table of Contents
 - [Logo](#logo)
@@ -27,6 +27,7 @@ MobileMate is a smartphone retail website that allows users to search for and co
 - [How to Contribute](#How-to-Contribute)
 - [Contributors](#contributors)
 
+<!--
 ## Logo <a name = "logo"></a>
 <img height =200px, src="https://user-images.githubusercontent.com/62802231/194802891-66d7c782-9765-419d-964b-b6bf6323b95a.gif"/>
 
@@ -39,6 +40,7 @@ MobileMate is a smartphone retail website that allows users to search for and co
 ![updatedMomomia3](https://user-images.githubusercontent.com/89804314/194808047-36643fe9-ab51-43be-bc10-0079934eb661.jpg)
 
 ![updatedMomomia4](https://user-images.githubusercontent.com/89804314/194808259-bdb3e8a9-8d3c-4bfd-a8e4-e971653836a3.jpg)
+---->
 
 ## Tech Stack <a name = "tech_stack"></a>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=140200"/>
@@ -46,22 +48,16 @@ MobileMate is a smartphone retail website that allows users to search for and co
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23e4626b.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
 ## Open Source Programs  <a name = "open_source_programs"></a>
-<table>
-<tr>
-  <td align="center">
-<a href="https://hacktoberfest.com/"><img src="https://user-images.githubusercontent.com/79099734/195970153-ee19d55b-20fc-4ddb-a91d-000773699c37.png" width=120px height=100px /><br /><sub><b>Hacktoberfest</b></sub></a>
- </td>
- </tr>
-</table>
+
 
 ## 📌How to Contribute📝:<a name="How-to-Contribute"></a>
 
 To contribute, look out for the issues raised by the maintainers as well as the other participants for contributions.
-Confused about where to start? Check out [good-first-issue](https://github.com/RIKI-05/MOMOMIA/labels/good%20first%20issue).
+Confused about where to start? Check out [good-first-issue](https://github.com/Muideen7/MobileMate/labels/good%20first%20issue).
 
 ### To start contributing, follow the below guidelines: 
 
-**1.**  Fork [this](https://github.com/RIKI-05/MOMOMIA) repository.
+**1.**  Fork [this](https://github.com/Muideen7/MobileMate) repository.
 
 **2.**  Clone your forked copy of the project.
 
@@ -78,7 +74,7 @@ cd community-website
 **4.** Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream https://github.com/RIKI-05/MOMOMIA.git 
+git remote add upstream https://github.com/Muideen7/MobileMate.git 
 ```
 
 **5.** Check the remotes for this repository.
@@ -145,15 +141,3 @@ LOOKING FORWARD TO YOUR CONTRIBUTIONS!
 ### Show some ❤️ by starring⭐ this awesome Repository!
 
 </div>
-
-
-## 📌Our valuable Contributors👩‍💻👨‍💻 : <a name="contributors"></a>
-<table align="center">
-<tr>
-<td>
-<a href="https://github.com/RIKI-05/MOMOMIA/graphs/contributors" align="center">
-  <img src="https://contributors-img.web.app/image?repo=RIKI-05/MOMOMIA" /> 
-</a>
-</td>
-</tr>
-</table>
